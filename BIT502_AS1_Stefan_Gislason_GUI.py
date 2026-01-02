@@ -93,8 +93,7 @@ class LibraryManagementGUI:
             activebackground="#2980b9",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         home_btn.pack(side=tk.LEFT, padx=20)
         
@@ -108,8 +107,7 @@ class LibraryManagementGUI:
             activebackground="#e67e22",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         cart_btn.pack(side=tk.LEFT, padx=20)
         
@@ -123,8 +121,7 @@ class LibraryManagementGUI:
             activebackground="#229954",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         checkout_btn.pack(side=tk.LEFT, padx=20)
     
@@ -229,8 +226,7 @@ class LibraryManagementGUI:
             activebackground="#ff4400",
             width=30,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         cart_btn.pack(pady=10, padx=5)
         
@@ -245,8 +241,7 @@ class LibraryManagementGUI:
             activebackground="#008800",
             width=30,
             height=3,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         checkout_btn.pack(pady=10, padx=5)
         
@@ -373,7 +368,6 @@ class LibraryManagementGUI:
                 height=2,
                 relief=tk.RAISED,
                 borderwidth=3,
-                cursor="hand2"
             )
             btn.pack(pady=8)
         
@@ -449,7 +443,6 @@ class LibraryManagementGUI:
                 height=2,  # Reduced from 3
                 relief=tk.RAISED,
                 borderwidth=3,
-                cursor="hand2"
             )
             btn.pack()
         
@@ -529,8 +522,7 @@ class LibraryManagementGUI:
             activebackground="#229954",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         add_btn.pack(side=tk.LEFT, padx=10)
         
@@ -545,8 +537,7 @@ class LibraryManagementGUI:
             activebackground="#7f8c8d",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         close_btn.pack(side=tk.LEFT, padx=10)
     
@@ -782,8 +773,7 @@ class LibraryManagementGUI:
             activebackground="#8e44ad",
             width=35,
             height=3,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         calc_btn.pack(pady=30)
         
@@ -957,8 +947,7 @@ class LibraryManagementGUI:
             activebackground="#2980b9",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         close_btn.pack(pady=20)
         
@@ -1054,8 +1043,7 @@ class LibraryManagementGUI:
             activebackground="#c0392b",
             width=35,
             height=3,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         calc_btn.pack(pady=30)
         
@@ -1190,8 +1178,7 @@ class LibraryManagementGUI:
             activebackground="#2980b9",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         close_btn.pack(pady=20)
     
@@ -1302,8 +1289,7 @@ class LibraryManagementGUI:
             activebackground="#2980b9",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         print_btn.pack(side=tk.LEFT, padx=10)
         
@@ -1318,8 +1304,7 @@ class LibraryManagementGUI:
             activebackground="#229954",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         new_order_btn.pack(side=tk.LEFT, padx=10)
         
@@ -1334,8 +1319,7 @@ class LibraryManagementGUI:
             activebackground="#7f8c8d",
             width=20,
             height=2,
-            relief=tk.RAISED,
-            cursor="hand2"
+            relief=tk.RAISED
         )
         close_btn.pack(side=tk.LEFT, padx=10)
     
