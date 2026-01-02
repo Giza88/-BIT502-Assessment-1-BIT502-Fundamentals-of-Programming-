@@ -1,4 +1,7 @@
-
+# ============================================================================
+# BONUS GUI VERSION - Library Management System (Kiosk Style)
+# This is an optional extra GUI implementation created as additional work beyond the assignment requirements.
+# ============================================================================
 
 """
 Course code: BIT502
@@ -6,7 +9,8 @@ Assessment: Assessment 1
 My full name: Stefan Gislason
 My student number: LG-4785366286
 
-GUI Version - Library Management System (Kiosk Style)
+BONUS GUI VERSION - Library Management System (Kiosk Style)
+This is  optional GUI implementation created as additional work beyond the assignment requirements.
 """
 
 import tkinter as tk
